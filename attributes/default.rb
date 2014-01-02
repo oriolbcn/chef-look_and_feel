@@ -1,6 +1,6 @@
 #
-# Author:: Ben Dixon
-# Cookbook Name:: look_and_feel-tlq
+# Author:: Oriol Collell
+# Cookbook Name:: look_and_feel
 # Attributes:: default
 #
 
