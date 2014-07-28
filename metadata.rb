@@ -1,4 +1,4 @@
-name              "look_and_feel"
+name              "look-and-feel"
 maintainer        "Oriol Collell"
 maintainer_email  "ocollell@dineyo.com"
 description       "Installs tools to make the server nicer to work on, quite opinionated"
